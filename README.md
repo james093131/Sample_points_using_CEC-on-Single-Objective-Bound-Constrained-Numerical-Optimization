@@ -1,2 +1,2 @@
-# Sample_points_using_CEC-on-Single-Objective-Bound-Constrained-Numerical-Optimization
+# Sample_points_using_CEC21
 cec17 and cec21
